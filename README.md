@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thesanchit
-- 👀 I’m interested in automations & blockchain  
-- 🌱 I’m currently learning python in-depth.
+- 👀 I’m interested in automations & blockchain
+- 🌱 I’m currently learning python in-depth
 - 💞️ I’m looking to collaborate on automation projects
 
 <!---
