@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thesanchit
-- 👀 I’m interested in automations & blockchain
-- 🌱 I’m currently learning python in-depth
-- 💞️ I’m looking to collaborate on automation projects
+- 👀 I’m interested in RPA, DevOps & Blockchain
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on RPA projects
 
 <!---
 thesanchit/thesanchit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
