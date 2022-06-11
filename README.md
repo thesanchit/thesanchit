@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thesanchit
-- 👀 I’m interested in RPA, DevOps & Blockchain
-- 🌱 I’m currently learning python
+- 👀 I’m interested in RPA, DevOps and automating things in general.
+- 🌱 I’m currently learning Python & Ansible
 - 💞️ I’m looking to collaborate on RPA projects
 
 <!---
